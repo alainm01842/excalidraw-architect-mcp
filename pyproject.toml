@@ -5,3 +5,4 @@ description = "Turn your architecture into a living, queryable knowledge graph -
 requires-python = ">=3.10"
 # clarify the control flow
 # handle the edge case from the last release
+# match the style used in the rest of the module
