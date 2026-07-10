@@ -26,3 +26,4 @@ Notes and usage details for excalidraw-architect-mcp.
 - fix a small wording issue
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
